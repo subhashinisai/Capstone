@@ -1,0 +1,24 @@
+.query{
+    display: flex;
+    gap:2rem;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top:90%;
+    left:30%;
+
+}
+
+#failure{
+    display:none;
+}
+#inputquery{
+    width: 700px;
+    height: 40px;
+    margin-left: -80px;
+    text-indent: 50px;
+}
+
+#success{
+    display: none;
+}
